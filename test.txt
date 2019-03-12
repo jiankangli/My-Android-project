@@ -7,4 +7,9 @@ new branch
 ttttsttd
 
 
+<<<<<<< HEAD
 new or old
+=======
+
+new or old
+>>>>>>> dev
